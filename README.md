@@ -19,3 +19,8 @@
   b) Simple binary classification problem, where optimization problem is solved using GradientDescent
   
   c) comparison with with the results if Armijo rule to adapt the step size is used
+  
+## 4. Coonvergence comparison for different methods
+
+  a) comparison of preformance of SGD, GD, ADAM, Nesterov Momentum
+  b) comparison of gradient descent, heavy ball method and accelerated gradient method,  step size selection
