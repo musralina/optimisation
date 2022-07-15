@@ -11,3 +11,9 @@
   a) implement with CVXPy the alternating optimization method
   
   b) plot the convergence line (objective function value vs. iteration idx) and confirm that the method converegs
+
+## 3. Steepest Gradient Descent
+
+  a) Solve the problem with the steepest gradient descent method
+  b) Simple binary classification problem, where optimization problem is solved using GradientDescent
+  c) comparison with with the results if Armijo rule to adapt the step size is used
