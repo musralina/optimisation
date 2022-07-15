@@ -15,5 +15,7 @@
 ## 3. Steepest Gradient Descent
 
   a) Solve the problem with the steepest gradient descent method
+  
   b) Simple binary classification problem, where optimization problem is solved using GradientDescent
+  
   c) comparison with with the results if Armijo rule to adapt the step size is used
