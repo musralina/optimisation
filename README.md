@@ -20,8 +20,18 @@
   
   c) comparison with with the results if Armijo rule to adapt the step size is used
   
-## 4. Coonvergence comparison for different methods
+## 4. Convergence comparison for different methods
 
   a) comparison of preformance of SGD, GD, ADAM, Nesterov Momentum
   
   b) comparison of gradient descent, heavy ball method and accelerated gradient methods,  step size selection
+  
+## 5. Optimisation problems solution
+
+  a) convex, strongly convex functions, set
+  b) KKT conditions 
+  c) Newton method 
+  d) minimization problem of quadratic function
+  e) linear least squares problem for random matrix A (GD, HeavyBall, accelerated GD)
+  f) solution CVXPy
+ 
