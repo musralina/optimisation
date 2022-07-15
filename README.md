@@ -7,7 +7,7 @@ various optimisation problems solution (using CVXPy, JAX, etc)
   b) Find the minimal time that is sufficient to land the spaceship
 
 2. Nonnegative matrix factorization for image processing: 
-### (NMF has become so popular is because of its ability to automatically extract sparse and easily interpretable factors.)
+##### (NMF has become so popular is because of its ability to automatically extract sparse and easily interpretable factors.)
 
   a) implement with CVXPy the alternating optimization method
   
