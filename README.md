@@ -29,9 +29,14 @@
 ## 5. Optimisation problems solution
 
   a) convex, strongly convex functions, set
+  
   b) KKT conditions 
+  
   c) Newton method 
+  
   d) minimization problem of quadratic function
+  
   e) linear least squares problem for random matrix A (GD, HeavyBall, accelerated GD)
-  f) solution CVXPy
+  
+  f) solution with CVXPy
  
