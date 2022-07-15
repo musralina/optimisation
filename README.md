@@ -23,4 +23,5 @@
 ## 4. Coonvergence comparison for different methods
 
   a) comparison of preformance of SGD, GD, ADAM, Nesterov Momentum
-  b) comparison of gradient descent, heavy ball method and accelerated gradient method,  step size selection
+  
+  b) comparison of gradient descent, heavy ball method and accelerated gradient methods,  step size selection
